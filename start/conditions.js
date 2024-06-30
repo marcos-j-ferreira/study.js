@@ -1,4 +1,5 @@
-// In programming, conditions refer to statements that evaluate to either True or False, and are used to control the flow of a program's execution.
+/*In programming, conditions refer to statements that evaluate to either True or False, 
+and are used to control the flow of a program's execution.*/
 
 const age = 18
 

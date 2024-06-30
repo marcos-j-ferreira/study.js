@@ -1,4 +1,5 @@
-/*In JavaScript, loops are used to execute a block of code repeatedly for a specified number of times. Here's a brief overview of how loops work in JavaScript:*/
+/*In JavaScript, loops are used to execute a block of code repeatedly for a specified number of times. 
+Here's a brief overview of how loops work in JavaScript:*/
 
 
 // type 01: 

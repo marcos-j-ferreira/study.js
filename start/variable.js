@@ -4,7 +4,8 @@ const name = "Marcos Júnior"
 
 let age = 19
 
-//the const variable its value cannot be changed, the let can be updated as needed; both forms can be manipulated.
+/*the const variable its value cannot be changed, the let can be updated as needed; 
+both forms can be manipulated.*/
 
 
 // also can use function in a variable
